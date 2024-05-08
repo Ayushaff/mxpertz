@@ -190,6 +190,16 @@ const DesignTwo = ({ selectedStory }) => {
           </Button>
         </Col>
       </Row>
+      <p className="text-center text-light mt-3">
+        <a
+          href="https://github.com/Ayushaff/mxpertz"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-light"
+        >
+          Github repo
+        </a>
+      </p>
     </Container>
   );
 };

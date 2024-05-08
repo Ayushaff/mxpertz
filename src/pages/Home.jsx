@@ -40,7 +40,13 @@ const Home = () => {
               >
                 Back
               </p>
-                <p onClick={handleNext} className="text-color fs-2 font-semibold" style={{ cursor: "pointer" }}>Next</p>
+              <p
+                onClick={handleNext}
+                className="text-color fs-2 font-semibold"
+                style={{ cursor: "pointer" }}
+              >
+                Next
+              </p>
             </div>
           </Col>
         </Row>
@@ -54,6 +60,16 @@ const Home = () => {
           )}
         </Col>
       </Row>
+      <p className="text-light text-center">
+        <a
+          href="https://github.com/Ayushaff/mxpertz"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-light"
+        >
+          Github repo
+        </a>
+      </p>
     </Container>
   );
 };
