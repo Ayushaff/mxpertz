@@ -1,0 +1,27 @@
+.bg_home {
+  background: rgb(13,5,31);
+  
+}
+body {
+  background-color: black;
+}
+
+.bg-card{ 
+  background: conic-gradient(rgb(48,136,199),rgb(87,52,196),rgb(36,154,198)) ;
+}
+
+.text-color{
+  font-size: 72px;
+  background: -webkit-linear-gradient(rgb(99,68,233), rgb(41,189,236));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  margin-bottom: 5px;
+}
+.btn-color{
+  background: -webkit-linear-gradient(rgb(99,68,233), rgb(41,189,236));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;  
+}
+.btn-gradient{
+  background: linear-gradient(rgb(99,68,233), rgb(41,189,236));
+}
