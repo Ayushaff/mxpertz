@@ -192,7 +192,7 @@ const DesignTwo = ({ selectedStory }) => {
       </Row>
       <p className="text-center text-light mt-3">
         <a
-          href="https://github.com/Ayushaff/mxpertz"
+          href="https://github.com/Ayushaff/mxpertz-frontend-task"
           target="_blank"
           rel="noopener noreferrer"
           className="text-light"
