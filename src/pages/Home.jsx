@@ -62,7 +62,7 @@ const Home = () => {
       </Row>
       <p className="text-light text-center">
         <a
-          href="https://github.com/Ayushaff/mxpertz"
+          href="https://github.com/Ayushaff/mxpertz-frontend-task"
           target="_blank"
           rel="noopener noreferrer"
           className="text-light"
